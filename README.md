@@ -6,7 +6,7 @@
 $ go get github.com/jyouj/go-edo
 ```
 
-#Usage
+## Usage
 ```
 $ go-edo 3
 徳川家光
